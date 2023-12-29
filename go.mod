@@ -1,4 +1,4 @@
-module github.com/kenjitheman/ecoman
+module github.com/nezutero/ecoman
 
 go 1.21.3
 

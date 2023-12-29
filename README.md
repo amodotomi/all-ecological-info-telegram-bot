@@ -42,7 +42,7 @@ ecoman
 ## Installation
 
 ```sh
-git clone https://github.com/kenjitheman/ecoman
+git clone https://github.com/nezutero/ecoman
 ```
 
 ## Usage
@@ -172,4 +172,4 @@ to discuss what you would like to change.
 
 ## License
 
-- [MIT](https://choosealicense.com/licenses/mit/)
+- [MIT](./LICENSE)
